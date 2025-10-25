@@ -1,0 +1,178 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "PIPORAMAContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "MinimumProductVersion": "2.6.1130",
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Data\/Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "TP_ProgramaciónII_PIPORAMA",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[barrios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[butacas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[categorias]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[clasificacion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[combos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[condiciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[consumibles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[contactos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalles_combo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalles_factura]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[empleados]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[entradas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[estado_pelicula]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[estados_compra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[facturas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[forma_compra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[formatos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[funciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[generos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[idiomas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[marcas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[medios_pago]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[peliculas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[promociones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[promociones_condiciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[promociones_entradas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sala_butacas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[salas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_cliente]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_contacto]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_promocion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_proyeccion]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}

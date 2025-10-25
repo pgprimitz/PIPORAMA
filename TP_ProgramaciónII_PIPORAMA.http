@@ -1,0 +1,6 @@
+@TP_ProgramaciónII_PIPORAMA_HostAddress = http://localhost:5049
+
+GET {{TP_ProgramaciónII_PIPORAMA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

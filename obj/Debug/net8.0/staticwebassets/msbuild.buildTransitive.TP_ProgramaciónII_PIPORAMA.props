@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TP_ProgramaciónII_PIPORAMA.props" />
+</Project>
